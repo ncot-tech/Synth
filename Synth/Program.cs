@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Synth
+namespace SynthTest
 {
 #if WINDOWS || LINUX
     /// <summary>

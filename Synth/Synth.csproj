@@ -38,7 +38,11 @@
     <ApplicationIcon>Icon.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Synthesizer\SoundHelper.cs" />
+    <Compile Include="Synthesizer\Synth.cs" />
+    <Compile Include="Synthesizer\Voice.cs" />
     <Compile Include="Game1.cs" />
+    <Compile Include="Synthesizer\Oscillator.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
